@@ -33,7 +33,3 @@ Models were compared with cross-validation, using MAE as the main metric:
 - Error analysis by price segment showed an average percentage error (MAPE) of around 9%, with relative errors of about 8% for mid-range and expensive cars.
 - The most important features were transmission type, car age and engine size.
 - A simple interactive interface (ipywidgets) returns a price prediction for any new car's characteristics.
-
-
-## Team (Group 28)
-Ana Rita Dias · Catarina Santos · Marisa Ramos · Nadia Scaletchi
